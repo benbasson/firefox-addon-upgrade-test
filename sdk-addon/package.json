@@ -1,0 +1,14 @@
+{
+  "id": "firefox-addon-upgrade-test@basson.at",
+  "title": "Firefox Add-on Upgrade Test",
+  "name": "firefox-addon-upgrade-test",
+  "version": "0.0.2",
+  "description": "Test upgrading a Firefox Add-on from XUL to SDK.",
+  "main": "index.js",
+  "author": "Ben Basson",
+  "homepage": "http://www.basson.at/firefox-addons/",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL"
+}

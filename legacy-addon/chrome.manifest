@@ -1,0 +1,2 @@
+overlay	chrome://browser/content/browser.xul	chrome://firefox-addon-upgrade-test/content/firefox-addon-upgrade-test.xul
+content	firefox-addon-upgrade-test chrome/content/
